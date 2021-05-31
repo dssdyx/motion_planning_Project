@@ -1,0 +1,8 @@
+prefix=/home/amov/motion_planning/Project/P_ws/devel
+
+Name: pose_utils
+Description: Description of pose_utils
+Version: 0.0.0
+Cflags: -I/home/amov/motion_planning/Project/P_ws/src/read_only/Utils/pose_utils/include
+Libs: -L${prefix}/lib -lpose_utils
+Requires: 
